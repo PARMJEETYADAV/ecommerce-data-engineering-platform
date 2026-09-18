@@ -1,4 +1,4 @@
-﻿# ecommerce-data-engineering-platform
+﻿# Ecommerce-data-engineering-platform
 
 ## Overview
 
